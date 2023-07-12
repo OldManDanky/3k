@@ -6,7 +6,7 @@ Tintin++ Mud Client: https://tintin.mudhalla.net/
 
 ***NOTE***
 
-You will need Tintin++ 2.01.5 or less for these.
+This is a conversion process for moving to the newer versions of Tintin++ for my scripts.
 
 
 -Turnhold
